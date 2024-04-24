@@ -1,0 +1,1 @@
+import{o,b as t,f as s}from"../modules/vue-D_1tdyWU.js";import{b as a}from"../index-D_3_TOrq.js";const l={},r={class:"slidev-layout default"};function c(e,n){return o(),t("div",r,[s(e.$slots,"default")])}const _=a(l,[["render",c],["__file","D:/暑研/梁胜文老师/huawei/survey/node_modules/@slidev/client/layouts/default.vue"]]);export{_ as I};
